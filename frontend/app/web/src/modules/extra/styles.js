@@ -7,6 +7,10 @@ const styles = theme => ({
     padding: theme.spacing.unit,
     backgroundColor: grey[500]
   },
+
+  grow: {
+    flexGrow: 1
+  }
 })
 
 export default styles
